@@ -1,26 +1,25 @@
-<h1 align="left">Fala, eu sou o Paulo 👋</h1>
+<h1 align="left">Fala, nós somos a OCA 💚</h1>
 
 ###
 
 <p align="left">
-Desenvolvedor Web e Designer focado em criar sites modernos, rápidos e com propósito.<br>
-Gosto de transformar ideias em interfaces bem construídas, unindo código + design para gerar resultados reais.
+A OCA – Organização Cultural Alternativa é uma ONG voltada ao desenvolvimento social, cultural e comunitário.<br>
+Atuamos criando oportunidades, fortalecendo vínculos e promovendo ações que impactam positivamente a comunidade.
 </p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre a OCA</h2>
 
 ###
 
-
-- 💻 Atuo com desenvolvimento web e design gráfico<br>
-- 🚀 Trabalho criando sites profissionais para negócios e projetos reais<br>
-- 📚 Atualmente aprofundando em JavaScript, CSS3, HTML5, arquitetura front-end e performance web<br>
-- 🎯 Objetivo: Foco em crescer como dev fullstack, construir produtos próprios (SaaS) e escalar projetos digitais<br>
-- 🎨 Forte atenção em UI/UX, estética e experiência do usuário<br>
-- ⚡ Curto unir tecnologia + design para criar experiências que realmente convertem<br>
-- 📈 Sempre buscando melhorar performance, SEO e resultados reais dos projetos<br>
+- 🤝 Atuamos no desenvolvimento de projetos sociais e culturais  
+- 🎭 Incentivamos a arte, cultura e inclusão social  
+- 📚 Trabalhamos com ações educativas e formativas para a comunidade  
+- 🌱 Foco no impacto social e no fortalecimento de vínculos locais  
+- 🚀 Desenvolvemos iniciativas que conectam pessoas e transformam realidades  
+- 💡 Valorizamos criatividade, colaboração e transformação social  
+- 📈 Buscamos ampliar o alcance e o impacto dos nossos projetos na comunidade  
 
 
 ###
