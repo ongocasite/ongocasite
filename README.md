@@ -24,6 +24,12 @@ Atuamos criando oportunidades, fortalecendo vínculos e promovendo ações que i
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ongocasite&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+</div>
+
+###
+
 <h2 align="left">Eu programo com</h2>
 
 ###
@@ -69,12 +75,6 @@ Atuamos criando oportunidades, fortalecendo vínculos e promovendo ações que i
   <a href="https://www.youtube.com/channel/UCbrkYJ_qTBHTwp6wUtE3Z9Q" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ongocasite&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
 </div>
 
 ###
